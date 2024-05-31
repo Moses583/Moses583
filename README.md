@@ -1,5 +1,5 @@
 # 💫 About Me:
-Salut! I,m Moses.<br>I'm a passionate android developer(progressBar 65% complete)<br>I love seeing beautifully created apps and using them😊, the thought<br>of creating even more beautiful apps excited me😁.<br>I am currently on a learning journey, destination; Kotlinburg,<br>JetPack Compose county.🚀<br>Fun fact: I loved Infinity War way more than Endgame
+Salut! I,m Moses.<br>I'm a passionate android developer(progressBar 65% complete)<br>Fun fact: I loved Infinity War way more than Endgame
 
 
 ## 🌐 Socials:
